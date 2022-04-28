@@ -1,0 +1,5 @@
+"Crie um script Python que leia o nome de uma pessoa e ostre uma mensagem de boas-vindas de acordo com o valor digitado"
+
+nome = input("Qual é o seu nome?")
+
+print(f"Seja bem vindo {nome} ao curso de Python!")
